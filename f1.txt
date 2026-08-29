@@ -1,1 +1,2 @@
 this  is f1 file
+the f1.txt file is updated by release
